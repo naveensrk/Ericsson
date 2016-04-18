@@ -1,0 +1,67 @@
+Hyd Eric ITIS Group:
+Karthik -- 9000136351
+Ravindra -- 8008331294
+S Keerti -- 8897546949
+
+98314
+98315
+
+98314 bhavani
+
+https://partnerlogin.apac.ericsson.se/
+
+passcode:: 334458
+
+ChangePwd@27081985
+
+\\172.16.203.209
+
+Hyderabad EricssonITODC4Zone1 Grp
+
+I am from Unix Team need some information
+
+can I know if your application is hosted on any SOLARIS/LINUX servers 
+
+exa
+xvammvh/welcome1
+
+IESELECT DB DEV SERVER
+==========================
+iedbvcd2.sw.ericsson.se 
+
+xredsow  
+Feb$2016 
+
+SEEBEYOND TESTING
+==================
+
+seebeyondvca6.sw.ericsson.se 
+xswadub/Hello@123
+
+GAPI
+==========
+cbeb3vcd1.sw.ericsson.se
+xuppnag
+Welcome@123
+
+Hyderabad Ericsson IT PMO Grp 
+
+
+cd /opt/web/apache/app/ies/bin/
+./apachectl -k stop
+ps -eaf | grep "httpd
+./apachectl -k restart -DSSL
+cd ../bin
+
+
+SSLProtocol -all +TLSv1 +TLSv1.1 +TLSv1.2
+
+oitvcd1.sw.ericsson.se	Dev	xvasdee	s(Ww^o0CKr5y	xvammvh	W~9[w2IAobvw
+
+924137	 - Vamsy M
+1253896  - NaveenKumar 
+1205146  - Srikar
+1219376  - Nandu 
+907794   - ramesh
+1072971  - Sainarayana 
+
